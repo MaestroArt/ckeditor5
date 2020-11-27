@@ -72,6 +72,7 @@
     "@ckeditor/ckeditor5-undo": "^23.1.0",
     "@ckeditor/ckeditor5-upload": "^23.1.0",
     "@ckeditor/ckeditor5-utils": "^23.1.0",
+    "@ckeditor/ckeditor5-vue": "^2.0.1",
     "@ckeditor/ckeditor5-watchdog": "^23.1.0",
     "@ckeditor/ckeditor5-widget": "^23.1.0",
     "@ckeditor/ckeditor5-word-count": "^23.1.0"
